@@ -1,0 +1,13 @@
+D:\BACKUP\EMPRESAS\SOFTWARE WIZARD\PROGRAMAÇÃO\Estudo\Curso Aprenda C# Basico em 30 minutos\Projeto de aula\bin\Debug\netcoreapp3.1\Projeto de aula.exe
+D:\BACKUP\EMPRESAS\SOFTWARE WIZARD\PROGRAMAÇÃO\Estudo\Curso Aprenda C# Basico em 30 minutos\Projeto de aula\bin\Debug\netcoreapp3.1\Projeto de aula.deps.json
+D:\BACKUP\EMPRESAS\SOFTWARE WIZARD\PROGRAMAÇÃO\Estudo\Curso Aprenda C# Basico em 30 minutos\Projeto de aula\bin\Debug\netcoreapp3.1\Projeto de aula.runtimeconfig.json
+D:\BACKUP\EMPRESAS\SOFTWARE WIZARD\PROGRAMAÇÃO\Estudo\Curso Aprenda C# Basico em 30 minutos\Projeto de aula\bin\Debug\netcoreapp3.1\Projeto de aula.runtimeconfig.dev.json
+D:\BACKUP\EMPRESAS\SOFTWARE WIZARD\PROGRAMAÇÃO\Estudo\Curso Aprenda C# Basico em 30 minutos\Projeto de aula\bin\Debug\netcoreapp3.1\Projeto de aula.dll
+D:\BACKUP\EMPRESAS\SOFTWARE WIZARD\PROGRAMAÇÃO\Estudo\Curso Aprenda C# Basico em 30 minutos\Projeto de aula\bin\Debug\netcoreapp3.1\Projeto de aula.pdb
+D:\BACKUP\EMPRESAS\SOFTWARE WIZARD\PROGRAMAÇÃO\Estudo\Curso Aprenda C# Basico em 30 minutos\Projeto de aula\obj\Debug\netcoreapp3.1\Projeto de aula.csprojAssemblyReference.cache
+D:\BACKUP\EMPRESAS\SOFTWARE WIZARD\PROGRAMAÇÃO\Estudo\Curso Aprenda C# Basico em 30 minutos\Projeto de aula\obj\Debug\netcoreapp3.1\Projeto de aula.AssemblyInfoInputs.cache
+D:\BACKUP\EMPRESAS\SOFTWARE WIZARD\PROGRAMAÇÃO\Estudo\Curso Aprenda C# Basico em 30 minutos\Projeto de aula\obj\Debug\netcoreapp3.1\Projeto de aula.AssemblyInfo.cs
+D:\BACKUP\EMPRESAS\SOFTWARE WIZARD\PROGRAMAÇÃO\Estudo\Curso Aprenda C# Basico em 30 minutos\Projeto de aula\obj\Debug\netcoreapp3.1\Projeto de aula.csproj.CoreCompileInputs.cache
+D:\BACKUP\EMPRESAS\SOFTWARE WIZARD\PROGRAMAÇÃO\Estudo\Curso Aprenda C# Basico em 30 minutos\Projeto de aula\obj\Debug\netcoreapp3.1\Projeto de aula.dll
+D:\BACKUP\EMPRESAS\SOFTWARE WIZARD\PROGRAMAÇÃO\Estudo\Curso Aprenda C# Basico em 30 minutos\Projeto de aula\obj\Debug\netcoreapp3.1\Projeto de aula.pdb
+D:\BACKUP\EMPRESAS\SOFTWARE WIZARD\PROGRAMAÇÃO\Estudo\Curso Aprenda C# Basico em 30 minutos\Projeto de aula\obj\Debug\netcoreapp3.1\Projeto de aula.genruntimeconfig.cache
