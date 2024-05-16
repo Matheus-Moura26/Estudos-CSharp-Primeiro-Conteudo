@@ -17,7 +17,7 @@ namespace Projeto_de_aula
     {
         /* tipos de dados */
         int valor = 30;
-        float a1 = 3.5;
+        float a1 = 3.5f;
         string catacteres = "Nome do personagem";
         bool VerdadeiroOuFalso = false;
 
@@ -88,5 +88,13 @@ namespace Projeto_de_aula
         {
 
         }
+    }
+
+    void Explosao(int ValorDano){
+        //Tocar efeito sonoro
+        //Aplicar efeito de flash
+        //Aplicar ValorDano de dano na vida do personagem
+
+
     }
 }
